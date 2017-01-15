@@ -2,6 +2,7 @@ group 'devadventures.com.br'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
+apply plugin: 'eclipse'
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
