@@ -1,0 +1,10 @@
+.settings
+.project
+.classpath
+.gradle/
+gradle/
+bin/
+build/
+src/main/webapp/assets/bower_components/
+.idea/
+*.iml
